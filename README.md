@@ -32,10 +32,7 @@
 
 </p>
 
-<a href="https://github.com/99mominur/cf-stats">
-<img src="https://raw.githubusercontent.com/99mominur/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 
-</a>
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99mominur)](https://github.com/anuraghazra/github-readme-stats)
