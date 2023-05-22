@@ -3,8 +3,8 @@
 
 - <img class="emoji" alt="goal_net" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png"> 2023 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional 
 
-- 🌱 I’m currently learning Machne
-- 🤔 I’m looking for help with Machine Learning 
+- 🌱 I’m currently learning Data Science
+- 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Porblem to Solve 
 - 📫 How to reach me: 99mominur@gmail.com 
 
